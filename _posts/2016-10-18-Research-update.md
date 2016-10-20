@@ -1,4 +1,5 @@
-# October 18, 2016: Thoughts on Hankel functions, BBN, waterfall mechanisms in inflation and the NFL.
+# October 18, 2016: 
+Thoughts on Hankel functions, BBN, waterfall mechanisms in inflation and the NFL.
 
 Today was a pretty busy day. Started out the morning by working with graduate students who I tutor 
 biweekly on math methods. They have an exam coming up this Friday and are pretty nervous about it. 
@@ -34,26 +35,28 @@ break throughs in physics. Anyway, that's why I've been focusing my attention so
 
 ## Waterfall Mechanism in multifield inflation
 
-I'm pretty upset with the state of research in inflation. I don't mean to upset those who are researching that
-field, but I came across a paper today on primordial black holes and how they can be produced with the so-called waterfall mechanism. Effectively, this mechanism divides the 60 or so e-folds of inflation (how many times we 
-need the universe to exponentially expand to solve the horizon problem) into two phases: I and II. In phase I
+I came across a paper today on primordial black holes and how they can be produced with the so-called *waterfall mechanism*.
+Effectively, this mechanism divides the 60 or so e-folds of inflation (how many times we 
+need the universe to exponentially expand to solve the horizon problem) into two phases. In phase I
 the usual slow roll inflaton field dominates the expansion and then suddenly, for no known reason, a second 
 field takes over and drives the rest of inflation. Both of these fields of course have very different dynamics
 which seems quite fortunate, since now you can do all of the things you wish you could do in multifield 
-inflation sans the problems with introducing non-gaussianities (this is the phenomena that contributes 
-non-gaussian effects to the otherwise perfectly gaussian CMB).
+inflation sans the problems with non-gaussianities (this is the phenomena that contributes 
+non-gaussian effects to the otherwise *pretty much* perfectly gaussian CMB).
 
 So of course there are tunable parameters in this inflationary potential, and the authors of this paper (which 
-I'll just omit here) pick these parameters perfectly to get primordial black holes of just the right mass. 
-I was asked to read and present this paper for a research group that does mostly galaxy simulations, so they
-wanted to know if it was something they should take with credence. Conclusion: NO.
+I'll just omit here) pick these parameters perfectly to get primordial black holes of just the right mass which would have 
+evaded our best experimental efforts. I was asked to read and present this paper for a research group that does mostly galaxy simulations, and they wanted to know if it was something they should take with credence. I'll have to go with a big NO 
+on this.. don't mean to disrespect those that work in this field, but.. I'll just stop there.
 
 ## NFL Analysis
 
 I recently decided it might be interesting to attempt to use machine learning techniques to predict success at
-the NFL level. See my github project NFLAnalysis for more information. Interestingly, probowl voting is ongoing
-and I would love to have some predictions before we know for sure who is sent to the probowl.
+the NFL level for American football. This was inspired by the movie *Movie Ball*, which is pretty awesome btw. See my 
+github project NFLAnalysis for more information. Probowl voting is currently ongoing and I would love to have some predictions before we know for sure who is sent to the probowl.
 
-Today I got an extremely random forests classifier algorithm to predict 4 probowl quarterbacks! Graph to come soon below. It guessed 6 wrong however, but I think I could live with that. At the end of the day, you only need to get this right once.
+Today I got an extremely random forests classifier algorithm to predict 4 probowl quarterbacks! Graph to come soon below. It guessed 6 wrong however, but I think I could live with that. At the end of the day, you only need to get this right once..
+Here's the confusion matrix for the outcome of the analysis:
 
- 
+![](https://s13.postimg.org/up2dtc09x/image1.png)
+
