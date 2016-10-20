@@ -13,7 +13,11 @@ the international agriculture-food industry (it's about a trillion dollar market
 came from a Mackenzie report (yes the consultancy company) and can be found 
 [here](http://www.mckinsey.com/industries/chemicals/our-insights/pursuing-the-global-opportunity-in-food-and-agribusiness) 
 (check out the angle presented on the Big Data section, they're spot on). 
-Mackenzie, I find, puts together absolutely fantastic reports on various economic studies actually, fyi.
+Mackenzie, I find, puts together absolutely fantastic reports on various economic studies actually, fyi. And, just because I
+think I should have at least one figure in every blog post, here's one outlining investment opportunities in this sector for
+those interested:
+
+![mackenzie report](http://www.mckinsey.com/~/media/McKinsey/Industries/Chemicals/Our%20Insights/Pursuing%20the%20global%20opportunity%20in%20food%20and%20agribusiness/SVGZ_Pursuing_the_big_opportunity_ex2.ashx)
 
 About two weeks after I submitted my application, I received great news that I was accepted to the program! This is exciting
 for me considering most of the business and economics knowledge I absorb comes from my self-directed study, so it's great to
