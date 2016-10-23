@@ -1,5 +1,9 @@
+---
+layout: post
+title: Thoughts on Entrepreneurship, Economics and the General Relativity - Fluid Dynamics duality.
+---
+
 # October 19th 2016: 
-Thoughts on Entrepreneurship, Economics and the General Relativity - Fluid Dynamics duality.
 
 Well today was insane yet again. I'll keep this short since it's 12:30 am and want to get some rest before the day starts up
 again tomorrow at 7am!
