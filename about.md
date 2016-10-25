@@ -81,7 +81,7 @@ opportunity to give a Ted talk on dark matter November 13, 2016 for this reason.
 
 -------
 
-If you believe, or adhear to any of these views, please feel free to copy them and place them on your site. Feel free to modify the text above in any way to better reflect your personal views.
+If you believe, or adhere to any of these views, please feel free to copy them and place them on your site. Feel free to modify the text above in any way to better reflect your personal views.
 
 Also, if you wish to contribute to any of my projects on my GitHub, please feel free to do so!
 
