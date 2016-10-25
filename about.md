@@ -61,7 +61,7 @@ I also believe the world will be a much safer and progressive place if more peop
 educational resources and scientifically valid information. Let those, whoever they are, or where ever they may be, have access to the resources necessary to answer the questions that drive their curiousity. This is why I am a huge fan of
 Google's Project Loon. From [their website](https://www.solveforx.com/loon/):
 
-*"More than half of the world's population is still without Internet access. Project Loon is a network of balloons traveling on the edge of space, designed to extend Internet connectivity to people in rural and remote areas worldwide."*
+>*"More than half of the world's population is still without Internet access. Project Loon is a network of balloons traveling >on the edge of space, designed to extend Internet connectivity to people in rural and remote areas worldwide."*
 
 - In mentorship, I will never *ever* see a student entering industry as a failure, never, under any circumstance(s), ever.
 
@@ -78,9 +78,10 @@ opportunity to give a Ted talk on dark matter November 13, 2016 for this reason.
 
 -------
 
-If you believe, or adhear to any of these views, please feel free to copy them and place them on your site. Fee free to modify the text above in any way to better reflect your personal views.
+If you believe, or adhear to any of these views, please feel free to copy them and place them on your site. Feel free to modify the text above in any way to better reflect your personal views.
 
 Also, if you wish to contribute to any of my projects on my GitHub, please feel free to do so!
 
 Best regards,
+
 Richard Galvez
