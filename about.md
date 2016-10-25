@@ -4,7 +4,7 @@ title: About Richard
 permalink: /about/
 ---
 
-<img src="meeeee.jpg" alt="Drawing" style="width: 50px;"/>
+<img src="../meeeee.jpg" alt="Drawing" style="width: 50px;"/>
 
 My name is Richard Galvez and I am currently a Fisk-Vanderbilt Bridge Postdoctoral Fellow at Vanderbilt and Fisk
 University. I like to live on the boundary of astrophysics / cosmology and data science, often times diving further 
