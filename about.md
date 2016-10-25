@@ -6,6 +6,7 @@ permalink: /about/
 
 ![](./12628623_10102610738037028_7656380995781277380_o.jpg =250x)
 
+
 My name is Richard Galvez and I am currently a Fisk-Vanderbilt Bridge Postdoctoral Fellow at Vanderbilt and Fisk
 University. I like to live on the boundary of astrophysics / cosmology and data science, often times diving further 
 in either direction. The potential of machine learning / deep learning algorithms applied to large-scale cosmological 
