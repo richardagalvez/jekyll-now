@@ -3,8 +3,6 @@ layout: post
 title: Thoughts on Hankel functions, BBN, waterfall mechanisms in inflation and the NFL.
 ---
 
-# October 18, 2016: 
-
 Today was a pretty busy day. Started out the morning by working with graduate students who I tutor 
 biweekly on math methods. They have an exam coming up this Friday and are pretty nervous about it. 
 I'm glad I somehow still remember all sort of random orthonormality conditions for obscure special functions..!
