@@ -3,18 +3,16 @@ layout: post
 title: Thoughts on Entrepreneurship, Economics and the General Relativity - Fluid Dynamics duality.
 ---
 
-# October 19th 2016: 
-
-Well today was insane yet again. I'll keep this short since it's 12:30 am and want to get some rest before the day starts up
+Well today was insane yet again. I'll keep this short since it's 12:30am and want to get some rest before the day starts up
 again tomorrow at 7am!
 
 ## The Wond'ry Preflight Entrepreneurship program
 
 I'm fairly interested in entrepreneurship and economics in general. So, recently when I heard that Vanderbilt University was
-accepting applications for an intensive 7-week introduction to entrepreneurship program at their new entrepreneur center, 
-called the [Wond'ry](https://www.vanderbilt.edu/thewondry/), I absolutely had to apply. I did a pretty deep analysis on 
-the international agriculture-food industry (it's about a trillion dollar market ya know). Most of the data I gathered actually
-came from a Mackenzie report (yes the consultancy company) and can be found 
+accepting applications for an intensive 7-week introduction to entrepreneurship program for STEM students and postdocs 
+at their new entrepreneur center called the [Wond'ry](https://www.vanderbilt.edu/thewondry/), I absolutely had to apply. 
+I did a pretty deep analysis on the international agriculture-food industry (it's about a trillion dollar market ya know). 
+Most of the data I gathered actually came from a McKenzie report (the consultancy company) which can be found 
 [here](http://www.mckinsey.com/industries/chemicals/our-insights/pursuing-the-global-opportunity-in-food-and-agribusiness) 
 (check out the angle presented on the Big Data section, they're spot on). 
 Mackenzie, I find, puts together absolutely fantastic reports on various economic studies actually, fyi. And, just because I
@@ -36,11 +34,12 @@ deep interest in what I've come to call a move towards *science-driven entrepren
 STEM-discipline scientists to become aware of the possible opportunities that exist in private enterprise. Interestingly,
 most scientists in academia don't really know the first thing about taking an idea and commercializing it. They believe these
 are things that one does if you step away from their *bench* science (physicists don't usually use the bench terminology but
-I find many other disciplines do). If the proper infrastructure was in place for STEM scientists to be able to take their
-random ideas, algorithms, hardware designs, what have you, to market easily, we may be staring at a completely different
-economy right now. This is why I believe in the education of those involved in research in STEM fields to realize that they can
-*do both* academic research and also let their technology and ideas positively impact society. Anyway, this is my main premise
-in my application to the AAAS Policy Fellowship-- I hope to bring these ideas to life, let's see how that goes.
+I find many other disciplines do). 
+
+If the proper infrastructure was in place for STEM scientists to be able to take their random ideas, algorithms, 
+hardware designs, what have you, to market easily, we may be staring at a completely different economy right now. 
+This is why I believe in the education of those involved in research in STEM fields to realize that they can
+*do both* academic research and also let their technology and ideas positively impact society.
 
 Some interesting quotes that were said by the panel today: 
 
@@ -51,7 +50,7 @@ heartedly agree with the sentiment. We are stronger together when we lend eachot
 better than us at particular things. It's pretty much why I believe on the open science initiative. Sometimes it's not about
 the ideas, but in the execution. Which brings me to the next quote:
 
-"Ideas are important, but sometimes execution waaaayyy more important." --
+"Ideas are important, but sometimes execution is waaaayyy more important." --
 
 Ok, same thing I said above. Also it was noted that Nashville is a very collaborative environment (thank goodness).
 
@@ -59,15 +58,11 @@ Tips for those beginning entrepreneurs:
 
 1. Don't go at it alone, find co-founders, it could be lonely if you go at it alone, and you may not make it, because it's..
 
-2. Extremely super hard to make it in the business world. Had to be emphasized that there will be very trying times. Hey sounds
-like..
+2. Extremely super hard to make it in the business world. Had to be emphasized that there will be very trying times. Hey sounds like..
 
-3. Entrepreneurship is a lot like scientific work. You collaborate on ideas, you strategize and you build value. In science we
-mostly stop at the published paper, but entrepreneurship is about continuing an enterprise.
+3. Entrepreneurship is a lot like scientific work. You collaborate on ideas, you strategize and you build value. In science we mostly stop at the published paper, but entrepreneurship is about continuing an enterprise.
 
-4. Keep an open mind and don't espouse an idea. Again, sounds a lot like science (I feel bad for those people that go their
-whole lives believing the same theory and just try and try and try to make it work. Apparently there's the same affliction in
-business).
+4. Keep an open mind and don't espouse an idea. Again, sounds a lot like science (I feel bad for those people that go their whole lives believing the same theory and just try and try and try to make it work. Apparently there's the same affliction in the business world).
 
 Books that were recommended: *The mom test* and *zero to one.*
 
@@ -91,7 +86,7 @@ Being an undergrad, I guess he assumes I know everything. Oh man is he wrong. I 
 calculations, but he was hoping for more help in experimental set up.. Can't promise much there! In either case, he needed
 help understanding the paper (*Measurement of stimulated Hawking emission in an analogue system*)[https://arxiv.org/abs/1008.1911]
 which I must say is pretty awesome. I read through it tonight and while I knew about the duality, I was surprised the experiment
-was actually carried out successfully. I wish him the best in reproducing their results, though I think it may be tough.
+was actually carried out successfully. I wish him the best in reproducing their results.
 
 Well that was pretty much the day. A bunch of stuff stayed on the to do list, guess will have to continue tomorrow..
 
