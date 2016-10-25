@@ -37,12 +37,13 @@ thoughts rather than actual research). My blog can be found on this site.
 
 # Guiding Philosophies
 
-I am guided by a short list of principles in my every day life, and they are:
+I am guided by a short list of principles in my every day life, they are:
 
-- Racism, discrimination and oppression have no place in the modern world. All people, regardless of position, age, sex, origin, sexual orientation or any other factor should be treated with the respect and dignity they deserve for their unique talents, abilities and/or knowledge.
+1. Racism, discrimination and oppression have no place in the modern world. All people, regardless of position, age, sex, origin, sexual orientation or any other factor should be treated with the respect and dignity they deserve for their unique talents, abilities and/or knowledge.
 
-Of course, this is sadly currently not the case. However, I vow to fight this in everything I do. If you are a person that 
-subscribes to views that not all people are created equal, or you think that fighting these problems are a waste of time, please don't bother wasting *my* time.
+Of course, this is sadly currently not the case. I put a lot of my effort into helping progress occur in this direction on
+a daily basis. Regardless if I continue in academia, move on to industry or policy, I simply cannot unsee the things 
+I've seen. I'm very passionate about instituting change in the direction of proper equality and would love to find team mates.
 
 - Open Science: I firmly adopt an open science policy.
 
