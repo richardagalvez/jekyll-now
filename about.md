@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Richard
+title: About
 permalink: /about/
 ---
 <img align="right" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/meeeee.jpg" style="width: 250px;"/>My name is Richard Galvez and I am currently a Fisk-Vanderbilt Bridge 
