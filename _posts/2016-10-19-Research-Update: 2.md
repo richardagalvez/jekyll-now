@@ -84,7 +84,7 @@ the tree fell damn it!).
 
 Being an undergrad, I guess he assumes I know everything. Oh man is he wrong. I mentioned I could help with the theoretical
 calculations, but he was hoping for more help in experimental set up.. Can't promise much there! In either case, he needed
-help understanding the paper (*Measurement of stimulated Hawking emission in an analogue system*)[https://arxiv.org/abs/1008.1911]
+help understanding the paper [*Measurement of stimulated Hawking emission in an analogue system*](https://arxiv.org/abs/1008.1911)
 which I must say is pretty awesome. I read through it tonight and while I knew about the duality, I was surprised the experiment
 was actually carried out successfully. I wish him the best in reproducing their results.
 
