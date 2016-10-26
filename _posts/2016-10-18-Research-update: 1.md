@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Hankel functions, BBN, waterfall mechanisms in inflation and the NFL.
+title: Hankel functions, BBN, waterfall mechanisms in inflation and the NFL.
 ---
 
 Today was a pretty busy day. Started out the morning by working with graduate students who I tutor 
