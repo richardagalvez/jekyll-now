@@ -78,6 +78,6 @@ That’s about it! I try to never preach but let these principles guide my actio
 
 I also like to get pictures of myself doing handstands in iconic places around the world: 
 
-<img hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/IMG_4510.JPG" style="width: 250px;"/> 
+<img align="center" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/IMG_4510.JPG" style="width: 300px;"/> 
 
 
