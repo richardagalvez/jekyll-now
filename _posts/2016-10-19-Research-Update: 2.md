@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Entrepreneurship, Economics and the General Relativity - Fluid Dynamics duality.
+title: Entrepreneurship, Economics and the General Relativity - Fluid Dynamics duality.
 ---
 
 Well today was insane yet again. I'll keep this short since it's 12:30am and want to get some rest before the day starts up
