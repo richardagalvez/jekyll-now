@@ -13,12 +13,10 @@ taking the *extra* courses. It's something I'm honestly very proud of, maybe tha
 making the choice to tackle the hard problems and learning as much as I could. It's the reason I learned Linux in highschool,
 the reason I know more about differential geometry than the typical physicist and why I know what I do about stellar evolution
 and exoplanets though I wrote my dissertation on string theory and inflation. AND, why I know about fluid dynamics and 
-turbulence. It sucked, and continues to be trying when entering a completely new field and being confused about some topic, 
-but it's nice to look back every now and then and just be happy to know I know what I know.
+turbulence. It was hard, and continues to be trying when entering a completely new field and being confused about some topic, 
+but it's nice to look back every now and then and just be happy to know I know what I know!
 
-I may add that sentence to my about me section!
-
-Anyway, about tutoring-- so I was asked about a method of images problem. Basically, here's my morning: get up, shower, eat
+About tutoring-- so I was asked about a method of images problem. Basically, here's my morning: get up, shower, eat
 some breakfast, do some short exercise and get in my car and head to Fisk. Park my car, walk into the library and BAM method
 of images, and BAM answer the question. If you're not familiar with physics, method of images is not exactly difficult, but
 I wonder how many people 1.5 years out of their PHD and 5 years removed from coursework still recall that random technique..?
