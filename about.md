@@ -76,6 +76,6 @@ opportunity to give a Ted talk on dark matter November 13, 2016 for this reason.
 
 That’s about it! I try to never preach but let these principles guide my actions to later speak for themselves.
 
-I also like to get pictures of myself doing handstands in iconic places around the world:
+I also like to get pictures of myself doing handstands in iconic places around the world: <img align="right" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/IMG_4510.JPG" style="width: 250px;"/> More to come!
 
 
