@@ -6,7 +6,7 @@ title: About me, boosted trees and heavy late decaying particles
 Well today I don't think I'll write much since I spent about an hour (!) writing my about me section.
 I spent sometime on it, mostly outlining my values and views on various things, hope some folks agree.
 
-# Elements of statistical learning. 
+# Elements of statistical learning
 
 I spent sometime reading up on ESL today. It's definitely one of my favorite texts. Found some pretty 
 interesting explanations and examples for the boosted trees algorithm I'm currently working with. 
