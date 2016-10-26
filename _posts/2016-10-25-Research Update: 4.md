@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Method of images, BBN, NYU fellowship, Entrepreneurship homework, Machine learning astrophysics grant, and computational neuroscience 
+title: Method of images, BBN, NYU fellowship, Entrepreneurship homework and Machine learning astrophysics grant
 ---
 
 Today as usual was exceptionally busy yet again, let's get right to this post!
