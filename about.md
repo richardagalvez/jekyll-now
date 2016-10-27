@@ -44,7 +44,7 @@ This is why I am a huge fan of Google’s Project Loon. From their website:
 
 - In mentorship, I will never see a student entering industry as a failure.
 
-I strongly dislike the toxic sentiment in academia (specifically STEM fields) that students moving to industry are seen as a failure. I believe this notion is extremely short sighted and damaging, not only to the exceptional student, but to science as a whole. If I mentored a student who was hired at Apple, Google, or Amazon, I would be exceptionally proud and would love to keep contact with this brilliant person.
+I strongly dislike the sentiment in academia (specifically STEM fields) that students or postdocs moving to industry are seen as a failure. I believe this notion is extremely short sighted and damaging, not only to the exceptional student, but to science as a whole. If I mentored a student who was hired by Apple, Google, or Amazon, I would be exceptionally proud and would love to keep contact with this brilliant person.
 
 - Scientists and Engineers should share their work with the public as often as possible.
 
@@ -52,6 +52,6 @@ Communication of one’s work is key to inspire new generations and in ultimatel
 
 That’s about it! I try to let these principles guide my actions and hopefully they speak for themselves.
 
-I also like to get pictures of myself doing handstands in iconic places around the world:
+I also like to get pictures of myself doing handstands around the world:
 
 <img align="center" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/IMG_4510.JPG" style="width: 300px;"/>
