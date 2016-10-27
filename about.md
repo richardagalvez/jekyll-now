@@ -47,7 +47,7 @@ This is why I am a huge fan of Google’s Project Loon. From their website:
 
 I strongly dislike the toxic sentiment in academia (specifically STEM fields) that students moving to industry are seen as a failure. I believe this notion is extremely short sighted and damaging, not only to the exceptional student, but to science as a whole. If I mentored a student who was hired at Apple, Google, or Amazon, I would be exceptionally proud and would love to keep contact with this brilliant person.
 
-- Scientists and Engineers should their work to the public as often as possible.
+- Scientists and Engineers should share their work with the public as often as possible.
 
 Communication of one’s work is key to inspire new generations and in ultimately resolving questions of the day. For this reason I try to explain my work, to as large an audience as possible. I’m happy to have the opportunity to give a Ted talk on dark matter November 13, 2016 for this reason. I’ll be placing a link here when done!
 
