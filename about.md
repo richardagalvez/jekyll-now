@@ -30,6 +30,7 @@ All people, regardless of position, age, sex, origin, sexual orientation or any 
 Of course, this is unfortunately  not the case today. A lot of my daily effort  is directed toward the fight for equality. Regardless of my future career path, I plan to continue this fight and am always looking for allies.
 
 - Open Science.
+
 Open Science concerns itself with the transparent sharing of knowledge and findings. Sharing of ideas openly only helps the body of science and knowledge advance faster and I try to be as transparent as possible.
 
 I also aim to upload material that accompanies my scientific papers explaining the computational code, full derivation of formulae and/or data generated / analyzed in a Github repo. I think this is especially helpful for beginners. I have so far only done this with my most recent paper, but intend on creating repos for my previous papers also.
