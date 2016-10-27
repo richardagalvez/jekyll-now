@@ -5,7 +5,6 @@ permalink: /about/
 ---
 <img align="right" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/meeeee.jpg" style="width: 250px;"/>My name is Richard Galvez and I am currently a Fisk-Vanderbilt Bridge Postdoctoral Fellow at Vanderbilt and Fisk University. I live to understand what comprises dark matter and how deep learning algorithms learn.
 
-
 Generally, my research lies on the boundary between astrophysics/cosmology and data science, in which fields I often delve a bit deeper. I believe the potential of machine/deep learning algorithms applied to large-scale cosmological and astrophysical surveys is limitless. We’re living in a  time when the developments of machine intelligence research are ready to meet the magnitude of data coming from modern astrophysical surveys. It’s a great time to be a scientist.
 
 
@@ -15,7 +14,7 @@ If you’re interested in the technical details of this work, please check out m
 
 Beyond that, I enjoy asking new questions and communicating my current understanding. I also enjoy learning about subjects I am unfamiliar with and always welcome new challenges. I believe that a scientist should investigate whatever problem she or he deems interesting without regard to the norms in their field. I truly dislike the notion that one is “wasting their time” if not working on a scientific paper directly related to their previous work. I don’t believe the mind works that way and think we should not limit our creativity.
 
-I have drawn, on countless occasion, inspiration from seemingly unrelated topics. For example, I’ve recently been learning about topological data analysis, which draws from my study of sting theory, differential geometry and data science / machine learning. You can read a review on the subject by Michael Lesnick (a mathematical biologist at the Institute for Advanced Study) [here](https://www.ias.edu/ideas/2013/lesnick-topological-data-analysis).
+I have drawn, on countless occasion, inspiration from seemingly unrelated topics. For example, I’ve recently been learning about topological data analysis, which draws from my study of string theory, differential geometry and data science / machine learning. You can read a review on the subject by Michael Lesnick (a mathematical biologist at the Institute for Advanced Study) [here](https://www.ias.edu/ideas/2013/lesnick-topological-data-analysis).
 
 The questions I am typically drawn to relate to science, economics, as well as sports statistics. You can find a menagerie of random questions I’m trying to answer by checking out [my GitHub](http://www.github.com/richardagalvez). I also try to keep a (somewhat descriptive) account of what I’m up to through jupyter notebooks in various repositories (which I’m a big fan of) and a research blog which I update on regular occasion (mostly seems like more philosophical thoughts rather than actual research :) ). My blog can be found on this site.
 
