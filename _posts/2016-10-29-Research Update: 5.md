@@ -18,7 +18,7 @@ begins to break down the Restricted Boltzmann Machines architecture in the micro
 macrocanonical. I was asked to give a lecture on deep learning networks in the physics department next week, so this will be
 a perfect reference.
 
-# AAAAS and grant writing
+# AAAS and grant writing
 
 This weekend I'm working on a section of a grant that I'm writing and finally finishing off my AAAS fellowship application.
 Gotta get to that! Oh and today's halloween.. which is unfortunate since I probably won't have a chance to get out and celebrate..
