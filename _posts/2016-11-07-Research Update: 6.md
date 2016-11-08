@@ -1,3 +1,8 @@
+---
+layout: post
+title: Statistical mechanics of learning networks
+---
+
 I haven't updated the research blog in sometime since I've been exceptionally busy, yet even more than usual, considering
 I've been submitting applications for various fellowships and preparing for the Ted talk. I can't wait until November 17th;
 my life may actually slow down considerably!
