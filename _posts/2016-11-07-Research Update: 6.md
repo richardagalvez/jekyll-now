@@ -24,8 +24,7 @@ networks have available to them is data from which they attempt to topologically
 the data sufficiently.
 
 It occurred to me recently that this is in fact the missing link in my mind. While lattice field theories 'learn' the classical
-vacuum by reducing the action, learning networks 'learn' the background geometry of their 'data space'. I'm not entirely sure 
-about the details, but I'm rather sure this may be what's mathematically happening.
+vacuum by reducing the action, learning networks 'learn' the background geometry of their 'data space' by reducing the loss function (which appears as the kinetic part of an action, mind you, in many cases) or increasing the log likelihood. I'm not entirely sure about the details, but I'm rather sure this may be what's mathematically happening.
 
 If this is true, it wouldn't just be a clever math trick, or a curious representation, it would mean
 all of the machinery from statistical field theory would instantly translate over to learning (or neural) networks. Techniques 
