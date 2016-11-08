@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img align="right" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/meeeee.jpg" style="width: 250px;"/>My name is Richard Galvez and I am currently a Fisk-Vanderbilt Bridge Postdoctoral Fellow at Vanderbilt and Fisk University. I live to understand what comprises dark matter and how deep learning algorithms learn.
+<img align="right" hspace="50px" src="https://raw.githubusercontent.com/richardagalvez/richardagalvez.github.io/master/meeeee.jpg" style="width: 250px;"/>My name is Richard Galvez and I am currently a Fisk-Vanderbilt Bridge Postdoctoral Fellow at Vanderbilt and Fisk University. I live to understand what comprises particle dark matter and how machine learning algorithms learn.
 
 Generally, my research lies on the boundary between astrophysics/cosmology and data science, in which fields I often delve a bit deeper. I believe the potential of machine/deep learning algorithms applied to large-scale cosmological and astrophysical surveys is limitless. We’re living in a  time when the developments of machine intelligence research are ready to meet the magnitude of data coming from modern astrophysical surveys. It’s a great time to be a scientist.
 
