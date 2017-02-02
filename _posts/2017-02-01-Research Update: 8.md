@@ -2,6 +2,24 @@
 layout: post
 title: So much data, so little time
 ---
+<style TYPE="text/css">
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+</style>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
+    }
+});
+MathJax.Hub.Queue(function() {
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 Things have been good lately in the research front. Much progress on quite a few projects-- been multi-threading since I got to Vanderbilt in various fields. I'm pretty excited to see a few papers I've been working on well outside of my comfort zone almost complete. Never did I think two years ago that I would be working on exoplanet statistics, machine learning or struggling with pandas data frames (I hate you pandas).
 
@@ -13,10 +31,10 @@ In either case, we've made some pretty nice looking plots, here's one of various
 
 ![alt text](https://richardagalvez.github.io/images/ars_cons.png)
 
-Unfortunately for the people in these locations, they have no choice but to drink poisonous water. Hopefully there will a cheap filtration system created soon, but just to give an idea, concentrations should not increase past $10 \mu g / L$ to be considered safe.
+Unfortunately for the people in these locations, they have no choice but to drink poisonous water filled with arsenic. Hopefully there will a cheap filtration system created soon, but just to give an idea, concentrations should not increase past $10 \mu g / L$ to be considered (somewhat) safe.
 
-Besides helping her out, been pretty busy with other projects. In particular, I'm quite excited about a novel machine learning algorithm we developed to do a most unusual supervised learning task. Surely in the near future I will be giving a detailed explaining of this algorithm as an jupyter notebook, but for now I can at least describe the problem.
+Besides helping her out, been pretty busy with other projects. In particular, I'm quite excited about a novel machine learning algorithm we developed to perform an unusual supervised learning task. Surely in the near future I will be giving a detailed explanation of this algorithm in a jupyter notebook, but for now I can at least describe the problem.
 
-Suppose you have a data set where you know each row is of either type 1 or type 2. It so happens that you only have a very small subset where you know for sure that you have a type 1's but a fairly large unknown group which could be anything. It seems we've developed an algorithm to learn to pick out the observations from the unknown set which *should* be type 1. This is quite helpful in the discovery process of general science, and I'm happy to be completing a paper regarding a method in accomplishing this very soon.
+Suppose you have a data set where you know each row is of either type 1 or type 2. It so happens that you only have a very small subset where you know for sure that you have type 1's but a fairly large unknown group which could be either case. It seems we've developed an algorithm that learns to pick out the observations from the unknown set which *should* be type 1. This is quite helpful in the discovery process of general science, and I'm happy to be completing a paper regarding this method. So, very soon, we can discover type 1's in unknown data and finally have nice things again.
 
 
