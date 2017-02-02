@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: So much data, so little time
 ---
 <style TYPE="text/css">
