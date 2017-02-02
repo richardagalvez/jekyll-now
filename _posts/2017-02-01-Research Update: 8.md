@@ -11,7 +11,7 @@ So she's been working on arsenic concentrations in a particular region of the wo
 
 In either case, we've made some pretty nice looking plots, here's one of various mineral concentrations by sample site:
 
-![alt text][https://richardagalvez.github.io/figures/ars_cons.png]
+![alt text](https://richardagalvez.github.io/images/ars_cons.png)
 
 Unfortunately for the people in these locations, they have no choice but to drink poisonous water. Hopefully there will a cheap filtration system created soon, but just to give an idea, concentrations should not increase past $10 \mu g / L$ to be considered safe.
 
