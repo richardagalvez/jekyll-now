@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fellowships everywhere, lots of projects, and too much data
+title: So much data, so little time
 ---
 
 Things have been good lately in the research front. Much progress on quite a few projects-- been multi-threading since I got to Vanderbilt in various fields. I'm pretty excited to see a few papers I've been working on well outside of my comfort zone almost complete. Never did I think two years ago that I would be working on exoplanet statistics, machine learning or struggling with pandas data frames (I hate you pandas).
