@@ -3,24 +3,6 @@ layout: post
 mathjax: true
 title: So much data, so little time
 ---
-<style TYPE="text/css">
-code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
-</style>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-    tex2jax: {
-        inlineMath: [['$','$'], ['\\(','\\)']],
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'] // removed 'code' entry
-    }
-});
-MathJax.Hub.Queue(function() {
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i < all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-    }
-});
-</script>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 Things have been good lately in the research front. Much progress on quite a few projects-- been multi-threading since I got to Vanderbilt in various fields. I'm pretty excited to see a few papers I've been working on well outside of my comfort zone almost complete. Never did I think two years ago that I would be working on exoplanet statistics, machine learning or struggling with pandas data frames (I hate you pandas).
 
