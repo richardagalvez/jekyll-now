@@ -4,7 +4,7 @@ mathjax: true
 title: Back again after a long hiatus
 ---
 
-It's been almost an entire year since I've updated my blog-- and my has it been an eventful year. Ever since I last posted here, I completed a 3 month industry internship with one of the largest data science teams in industry [https://multithreaded.stitchfix.com/blog/](Stitch Fix), and accepted a fellowship at the NYU Center for Data Science and NYU Center for Cosmology and Particle Physics.
+It's been almost an entire year since I've updated my blog-- and my has it been an eventful year. Ever since I last posted here, I completed a 3 month industry internship with one of the largest data science teams in industry [Stitch Fix](https://multithreaded.stitchfix.com/blog/), and accepted a fellowship at the NYU Center for Data Science and NYU Center for Cosmology and Particle Physics.
 
 During this time, I moved from Nashville, spent three great months living in San Francisco and then moved to New York City (Greenwich Village). I've also gotten into online data science competitions, started a data science consulting side gig, and think my colleague and I may have figured out what some of the dark matter could be. Things have happened fast; it's been a whirlwind.
 
